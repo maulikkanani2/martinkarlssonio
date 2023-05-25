@@ -69,3 +69,8 @@ Project Link: [github.com/martinkarlssonio/llm](https://github.com/martinkarlsso
 [screenshot3]: img/screenshot3.png
 [screenshot4]: img/screenshot4.png
 [animation]: img/animation.gif
+
+<!-- Docker -->
+Follow thsi command for run with Docker
+1> For Build ------> "docker build -t my-flask-app ."
+2> For run project ------> "docker run -p 5005:5005 my-flask-app"
